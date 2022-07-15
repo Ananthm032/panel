@@ -1,0 +1,40 @@
+.mini{
+    width: 100%;
+   
+}
+  .mini-container{
+      flex: 5;    
+      margin-left: 15%;  
+     
+}
+.container ul{
+  display: flex;
+ list-style: none;
+justify-content: space-around;
+padding: 16px 32px;
+border:1px solid lightgray;
+margin-top:1px;
+font-size: 20px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background: #FAFAFB;
+width: 320px;
+border-bottom: transparent;
+position: static;
+border: transparent;
+}
+.container ul:hover{
+    border-bottom: 2px solid #F1A240;
+   
+  
+}
+
+
+.container{
+    display: flex; 
+}
+.container ul li{
+    color: #000;
+}
+.container ul li:hover{
+    color: #F1A240;
+}
