@@ -4,10 +4,11 @@
 }
   .mini-container{
       flex: 5;    
-      margin-left: 15%;  
+      margin-left: 210px  
      
 }
 .container ul{
+   
   display: flex;
  list-style: none;
 justify-content: space-around;
@@ -17,9 +18,9 @@ margin-top:1px;
 font-size: 20px;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 background: #FAFAFB;
-width: 320px;
+width: 100%;
 border-bottom: transparent;
-position: static;
+position:relative;
 border: transparent;
 }
 .container ul:hover{

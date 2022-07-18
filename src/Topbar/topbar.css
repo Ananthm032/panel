@@ -7,23 +7,26 @@
 .topbar{
     display: flex;
     background: #FFFFFF;
-    box-shadow: 0px 2px 2px -1px rgba(0, 0, 0, 0.12), 0px 0px 0px 3px #EEEFF2;
+   border: 0.5px solid;
+   border:transparent;
     align-items: center;
     justify-content: space-between;
+    width: 100%;
 }
 .topbar p{
+  
     font-family: 'Satoshi';
     font-style: normal;
     font-weight:bold;
-    font-size: 18px;
-    margin-left: 10.5%;
-    color: #000000;
-    margin-top:14px;
-  
+   position: relative;
+  margin-left: 11%;
+  margin-top:6px;
+
 }
 .img{
     height: 30px;
     width: 30px;
     margin-right: 20px;
     background-color: #EEEFF2;
+    
 }

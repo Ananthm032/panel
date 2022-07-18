@@ -1,0 +1,33 @@
+.card2{
+    margin-left: 15%;
+ 
+}
+.card2 h4{
+    color: lightgrey;
+}
+
+.card2 h3{
+font-size: 20px;
+color:  lightgrey;;
+}
+.card2 Button{
+border-radius: 40px;
+background: #EBFCD5;
+color: #0D6008;
+width: 113px;
+height: 28px;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 15px;
+
+
+}
+.card2 type{
+  font-size: 24px;
+  font-weight: 700;  
+}
+.card2 h5{
+    font-size: 20px;
+    color: #598CF4;
+}

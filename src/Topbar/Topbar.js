@@ -8,10 +8,11 @@ function Topbar() {
         <div className="topbar">
         <div className="topbar-list">
        <img src={Img} alt='' width='100%' height="100%" /> 
-       </div>
+      </div>
        <p>Admin</p>
        <div className='img'>  <Link to="/"><img src={Img1} alt='' width='100%' height="100%" /></Link></div>
-        </div>
+      
+       </div>
   )  
 }
 
